@@ -1,0 +1,1 @@
+Esse projeto é uma lista de um bazar onde vocé pode cadastrar as itens e valores que serão disponibilizados.
